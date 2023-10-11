@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ps. need to create a firebase project and sync the web app's Firebase configuration
+
 ## Available Scripts
 
 In the project directory, you can run:
