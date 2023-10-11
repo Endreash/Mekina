@@ -30,5 +30,5 @@ sketch
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
-
+.env
 # End of https://www.toptal.com/developers/gitignore/api/firebase
